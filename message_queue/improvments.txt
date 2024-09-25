@@ -1,0 +1,3 @@
+- right now each mocked GPU can only process one inference query at a time, we want to consider batching and smart batching
+    - how many queries to batch togehter
+    - how long to wait before executing
