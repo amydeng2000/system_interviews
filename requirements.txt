@@ -3,3 +3,5 @@ pydantic
 uvicorn
 tqdm
 aiohttp
+numpy
+torch
